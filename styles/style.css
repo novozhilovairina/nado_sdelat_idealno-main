@@ -30,7 +30,7 @@ body {
   background-color: rgb(255 255 255 / 0.3);
 }
 
-.page__video  {
+.page__video {
   position: absolute;
   inset: 0;
   width: 100%;
